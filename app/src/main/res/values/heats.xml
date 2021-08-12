@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heats">
+        <item name="title">Favorite heat</item>
+        <item name="freestyle50">Freestyle 50m</item>
+        <item name="freestyle100">Freestyle 100m</item>
+        <item name="freestyle200">Freestyle 200m</item>
+        <item name="freestyle400">Freestyle 400m</item>
+        <item name="freestyle800">Freestyle 800m</item>
+        <item name="freestyle1500">Freestyle 1500m</item>
+        <item name="fly50">Fly 50m</item>
+        <item name="fly100">Fly 100m</item>
+        <item name="fly200">Fly 200m</item>
+        <item name="breast50">Breaststroke 50m</item>
+        <item name="breast100">Breaststroke 100m</item>
+        <item name="breast200">Breaststroke 200m</item>
+        <item name="back50">Backstroke 50m</item>
+        <item name="back100">Backstroke 100m</item>
+        <item name="back200">Backstroke 200m</item>
+        <item name="mixed200">Mixed 200m</item>
+        <item name="mixed400">Mixed 400m</item>
+    </string-array>
+</resources>
