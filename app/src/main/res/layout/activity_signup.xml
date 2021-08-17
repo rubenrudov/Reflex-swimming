@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignupActivity">
+    tools:context=".SignupActivity"
+    >
 
     <RelativeLayout
         android:id="@+id/topBar"
@@ -64,7 +65,7 @@
 
     <Button
         android:id="@+id/submitButton"
-        android:layout_width="wrap_content"
+        android:layout_width="300dp"
         android:paddingHorizontal="30dp"
         android:paddingVertical="10dp"
         android:layout_height="wrap_content"
@@ -76,6 +77,6 @@
         android:textColor="@android:color/white"
         android:textAllCaps="false"
         android:text="Get started"
-        android:background="@color/colorPrimary"
+        android:background="@drawable/button"
         />
 </RelativeLayout>
